@@ -2,6 +2,9 @@
 
 namespace Model
 {
+    /// <summary>
+    /// Класс "Параллелепипед"
+    /// </summary>
     [Serializable]
     public class Parallelepiped : Pyramid, IFigures
     {
