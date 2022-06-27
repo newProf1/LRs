@@ -1,5 +1,8 @@
 ﻿namespace Model
 {
+    /// <summary>
+    /// Интерфейс
+    /// </summary>
     public interface IFigures
     {
         float Volume();
