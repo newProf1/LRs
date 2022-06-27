@@ -2,6 +2,9 @@
 
 namespace Model 
 {
+    /// <summary>
+    /// Класс "Пирамида"
+    /// </summary>
     [Serializable]
     public class Pyramid : Ball, IFigures
     {
