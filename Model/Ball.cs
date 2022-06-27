@@ -2,6 +2,9 @@
 
 namespace Model
 {
+    /// <summary>
+    /// Класс "Шар"
+    /// </summary>
     [Serializable]
     public class Ball : IFigures
     {
